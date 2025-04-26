@@ -1,6 +1,6 @@
 # TrackTV
 
-![TrackTV Banner](./logo.jpg)
+![TrackTV Banner](images/logo.jpg)
 
 > *A data-driven exploration of how soundtracks shape emotion in iconic TV series.*
 
